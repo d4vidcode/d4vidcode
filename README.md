@@ -57,16 +57,16 @@ Si te gustaría discutir algo, puedes escribirme en [Twitter](https://twitter.co
 
 Puedes encontrarme en - [Mi página web](https://www.codechappie.com/)
 
-[![Top Langs](https://github-readme-stats-teal-five.vercel.app/api/top-langs/?username=codechappie&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/codechappie/github-readme-stats) 
+[![Top Langs](https://github-readme-stats-teal-five.vercel.app/api/top-langs/?username=d4vidcode&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/codechappie/github-readme-stats) 
 
-![Estadísticas de Code Chappie](https://github-readme-stats-teal-five.vercel.app/api?username=codechappie&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Estadísticas de Code Chappie](https://github-readme-stats-teal-five.vercel.app/api?username=d4vidcode&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 <p align="center">
   <i>¡Echa un vistazo a mis repositorios y pongámonos en contacto!</i>
 </p>
 
 <p align="center">
-<a href= "https://github.com/codechappie/"><img src="https://img.icons8.com/material-outlined/27/000000/ball-point-pen.png"/></a>
+<a href= "https://github.com/d4vidcode/"><img src="https://img.icons8.com/material-outlined/27/000000/ball-point-pen.png"/></a>
 <a href= "https://www.linkedin.com/company/codechappie/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
 <a href= "https://twitter.com/codechappie"><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></a>
 <a href= "https://halfrost.com"><img src="https://img.icons8.com/material-outlined/27/000000/geography.png"/></a>
